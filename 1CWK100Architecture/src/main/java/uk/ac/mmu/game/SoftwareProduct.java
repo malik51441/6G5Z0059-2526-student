@@ -9,6 +9,7 @@ public class SoftwareProduct {
 	public static void main(String[] args) {
 
         SpringApplication.run(SoftwareProduct.class, args);
+
 	}
 
 }
